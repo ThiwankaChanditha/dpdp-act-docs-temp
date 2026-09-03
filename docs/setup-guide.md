@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Setting up the DPDP Identity Server Accelerator
 
 Gets the Identity Server running with the consent portal deployed. Complete

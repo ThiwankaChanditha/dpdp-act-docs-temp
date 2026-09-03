@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Managing grievances
 
 The DPDP Accelerator provides a tenant-scoped grievance (complaint) service for

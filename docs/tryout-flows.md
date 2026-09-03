@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Try out the WSO2 DPDP Accelerator
 
 Use these flows after completing the [Quickstart](quickstart.md). They exercise

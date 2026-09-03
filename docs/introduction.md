@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Digital Personal Data Protection and the WSO2 DPDP Accelerator
 
 India's [Digital Personal Data Protection Act, 2023](https://www.indiacode.nic.in/indiacode/handle/123456789/22037)

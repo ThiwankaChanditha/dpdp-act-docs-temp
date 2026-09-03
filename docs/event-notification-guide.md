@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Using Event Notifications
 
 Complete this after installing the accelerator, configuring the Consent Portal,

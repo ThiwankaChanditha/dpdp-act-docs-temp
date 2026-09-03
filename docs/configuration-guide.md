@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Configuring the Consent Portal application
 
 Complete this after installing the accelerator and starting the Identity

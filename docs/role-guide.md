@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Role Management Guide
 
 This guide outlines the roles provided by the DPDP Accelerator, their intended use cases, the permissions they grant, and how to manage them.

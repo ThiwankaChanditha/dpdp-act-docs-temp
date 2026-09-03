@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # DPDP Accelerator quickstart
 
 Use this guide to install the accelerator with its embedded H2 database, open

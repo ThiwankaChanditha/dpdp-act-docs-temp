@@ -1,3 +1,7 @@
+---
+layout: default
+title: DPDP Act Documentation
+---
 # DPDP Act Documentation
 
 Welcome to the documentation for the DPDP Act implementation. Use the links below to navigate through the guides.

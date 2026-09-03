@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Localizing the Consent Portal
 
 Complete this after [`configuration-guide.md`](configuration-guide.md). This
