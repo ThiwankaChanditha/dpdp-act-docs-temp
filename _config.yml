@@ -1,0 +1,5 @@
+title: DPDP Act Documentation
+description: Official documentation for the DPDP Act implementation
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
