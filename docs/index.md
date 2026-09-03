@@ -8,6 +8,7 @@ Welcome to the documentation for the DPDP Act implementation. Use the links belo
 
 ## 🚀 Getting Started
 - [Introduction](introduction.md) - Overview of the project and goals.
+- [Learn](learn.md) - Explore the accelerator through real-world stories.
 - [Quickstart Guide](quickstart.md) - Get up and running in minutes.
 - [Setup Guide](setup-guide.md) - Detailed installation and environment configuration.
 
