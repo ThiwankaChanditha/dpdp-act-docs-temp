@@ -18,7 +18,7 @@ operation.
 The DPDP Act applies to digital personal data processed in India, including
 data collected in non-digital form and digitised later. It can also apply to
 processing outside India when that processing is connected with offering
-goods or services to Data Principals in India. The Act excludes specified
+goods or services to Data Principals(individual to whom the personal data relates) in India. The Act excludes specified
 personal or domestic processing and certain personal data made publicly
 available by the Data Principal or by a person legally required to publish it.
 
