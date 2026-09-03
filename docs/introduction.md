@@ -1,18 +1,14 @@
----
-layout: default
----
-
 # Digital Personal Data Protection and the WSO2 DPDP Accelerator
 
 India's [Digital Personal Data Protection Act, 2023](https://www.indiacode.nic.in/indiacode/handle/123456789/22037)
 (DPDP Act) establishes a framework for processing digital personal data that
 recognises both an individual's right to protect personal data and the need to
 process it for lawful purposes. The WSO2 DPDP Accelerator extends WSO2
-Identity Server with consent, complaint, audit, and event-notification
+Identity Server with consent, complaint (grievance), audit, and event-notification
 capabilities that help an organization put parts of that framework into
 operation.
 
-> This page is a product introduction, not legal advice or a statement of
+> Disclaimer: This page is a product introduction, not legal advice or a statement of
 > compliance. An organization remains responsible for determining how the Act,
 > its commencement notifications, and applicable rules affect its processing
 > activities.
@@ -152,7 +148,7 @@ response, and legal review.
 
 ## Start using the accelerator
 
-1. Follow the [Quickstart](quickstart.md) for a local H2 deployment and a first
+1. Follow the [Quickstart](quickstart.md) for a local quick setting up of the solution
    tenant.
 2. Run the [Tryout Flows](tryout-flows.md) to exercise the shipped catalog,
    consent, complaint, Event Notification, and account lifecycle capabilities.

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # DPDP Accelerator quickstart
 
 Use this guide to install the accelerator with its embedded H2 database, open
@@ -122,6 +118,9 @@ troubleshooting.
 
 ## Next steps
 
+- [Learn through real stories](learn.md) — understand how the major areas fit
+  together from the perspectives of a Data Principal, administrator, processor,
+  and grievance officer
 - [Tryout Flows](tryout-flows.md) — catalog, consent lifecycle, complaint,
   automatic event, and account-deletion walkthroughs
 - [Grievances Guide](grievances-guide.md) — complaint submission, handling,
