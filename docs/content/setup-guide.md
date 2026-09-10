@@ -1,6 +1,3 @@
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
 # Setting up databases for the DPDP Accelerator
 
 Use this guide to prepare the databases and datasource configuration for WSO2
@@ -103,8 +100,8 @@ assigned to that section.
 | `WSO2AGENTIDENTITY_DB` | `[datasource.AgentIdentity]` |
 | `WSO2DPDP_DB` | `[datasource.WSO2DPDP_DB]` |
 
-<Tabs groupId="dbms" queryString="dbms" defaultValue="mysql">
-<TabItem value="mysql" label="MySQL">
+<details>
+<summary>MySQL</summary>
 
 ```toml
     [database.identity_db]
@@ -142,9 +139,10 @@ assigned to that section.
     pool_options.defaultAutoCommit = true
 ```
 
-</TabItem>
+</details>
 
-<TabItem value="postgresql" label="PostgreSQL">
+<details>
+<summary>PostgreSQL</summary>
 
 ```toml
     [database.identity_db]
@@ -182,9 +180,10 @@ assigned to that section.
     pool_options.defaultAutoCommit = true
 ```
 
-</TabItem>
+</details>
 
-<TabItem value="oracle" label="Oracle">
+<details>
+<summary>Oracle</summary>
 
 ```toml
     [database.identity_db]
@@ -222,9 +221,10 @@ assigned to that section.
     pool_options.defaultAutoCommit = true
 ```
 
-</TabItem>
+</details>
 
-<TabItem value="mssql" label="Microsoft SQL Server">
+<details>
+<summary>Microsoft SQL Server</summary>
 
 ```toml
     [database.identity_db]
@@ -262,9 +262,7 @@ assigned to that section.
     pool_options.defaultAutoCommit = true
 ```
 
-</TabItem>
-
-</Tabs>
+</details>
 
 Keep the `id` values as `AgentIdentity` and `WSO2DPDP_DB`. Preserve the
 remaining Identity Server and accelerator settings in the file.
