@@ -1,17 +1,17 @@
 // @ts-check
 const { themes: prismThemes } = require('prism-react-renderer');
 
-const baseUrl = process.env.BASE_URL || '/dpdp-accelerator/';
+const baseUrl = process.env.BASE_URL || '/dpdp-act-docs-temp/';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'WSO2 DPDP Accelerator Documentation',
   tagline: 'Documentation for the WSO2 DPDP (Digital Personal Data Protection) Accelerator',
   favicon: 'img/favicon.svg',
-  url: 'https://wso2.github.io',
+  url: 'https://thiwankachanditha.github.io',
   baseUrl,
-  organizationName: 'wso2',
-  projectName: 'dpdp-accelerator',
+  organizationName: 'ThiwankaChanditha',
+  projectName: 'dpdp-act-docs-temp',
   onBrokenLinks: 'throw',
   markdown: {
     hooks: {

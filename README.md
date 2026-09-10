@@ -6,6 +6,7 @@ documentation site.
 ## Local development
 
 ```bash
+cd docs
 pnpm install
 pnpm start
 ```
@@ -15,6 +16,7 @@ The local site is available at `http://localhost:3000/dpdp-act-docs-temp/`.
 Build the static site with:
 
 ```bash
+cd docs
 pnpm build
 ```
 
